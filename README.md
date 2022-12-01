@@ -13,7 +13,7 @@ git push -u origin main\
 
 git remote add origin https://github.com/whoi-mars/husky-foxy-ws.git  
 git branch -M main\
-git push -u origin main\
+git push -u origin main
 
 …or import code from another repository
 
