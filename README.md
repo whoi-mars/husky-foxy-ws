@@ -1,7 +1,7 @@
 # husky-foxy-ws
 …or create a new repository on the command line
 
-echo # husky-foxy-ws >> README.md
+echo # husky-foxy-ws >> README.md\
 git init
 git add README.md
 git commit -m first commit
